@@ -1,0 +1,40 @@
+c:\users\liche\documents\visual studio 2015\Projects\Lab 4\Lab 4\bin\Debug\Lab 4.exe
+c:\users\liche\documents\visual studio 2015\Projects\Lab 4\Lab 4\bin\Debug\Lab 4.pdb
+c:\users\liche\documents\visual studio 2015\Projects\Lab 4\Lab 4\bin\Debug\System.Windows.Forms.DataVisualization.dll
+c:\users\liche\documents\visual studio 2015\Projects\Lab 4\Lab 4\obj\Debug\Lab 4.csprojResolveAssemblyReference.cache
+c:\users\liche\documents\visual studio 2015\Projects\Lab 4\Lab 4\obj\Debug\Lab_4.Form1.resources
+c:\users\liche\documents\visual studio 2015\Projects\Lab 4\Lab 4\obj\Debug\Lab_4.Properties.Resources.resources
+c:\users\liche\documents\visual studio 2015\Projects\Lab 4\Lab 4\obj\Debug\Lab 4.csproj.GenerateResource.Cache
+c:\users\liche\documents\visual studio 2015\Projects\Lab 4\Lab 4\obj\Debug\Lab 4.exe
+c:\users\liche\documents\visual studio 2015\Projects\Lab 4\Lab 4\obj\Debug\Lab 4.pdb
+H:\Projects\Lab 4\Lab 4\bin\Debug\Lab 4.exe.config
+H:\Projects\Lab 4\Lab 4\obj\Debug\Lab 4.exe
+H:\Projects\Lab 4\Lab 4\obj\Debug\Lab 4.pdb
+H:\Projects\Lab 4\Lab 4\bin\Debug\Lab 4.exe
+H:\Projects\Lab 4\Lab 4\bin\Debug\Lab 4.pdb
+H:\Projects\Lab 4\Lab 4\obj\Debug\Lab_4.Properties.Resources.resources
+H:\Projects\Lab 4\Lab 4\obj\Debug\Lab 4.csproj.GenerateResource.Cache
+H:\Projects\Lab 4\Lab 4\obj\Debug\Lab_4.Form1.resources
+H:\Projects\Lab 4\Lab 4\obj\Debug\Lab 4.csprojResolveAssemblyReference.cache
+I:\Projects\Lab 4\Lab 4\bin\Debug\Lab 4.exe.config
+I:\Projects\Lab 4\Lab 4\bin\Debug\Lab 4.exe
+I:\Projects\Lab 4\Lab 4\bin\Debug\Lab 4.pdb
+I:\Projects\Lab 4\Lab 4\obj\Debug\Lab 4.csprojResolveAssemblyReference.cache
+I:\Projects\Lab 4\Lab 4\obj\Debug\Lab_4.Form1.resources
+I:\Projects\Lab 4\Lab 4\obj\Debug\Lab_4.Properties.Resources.resources
+I:\Projects\Lab 4\Lab 4\obj\Debug\Lab 4.csproj.GenerateResource.Cache
+I:\Projects\Lab 4\Lab 4\obj\Debug\Lab 4.exe
+I:\Projects\Lab 4\Lab 4\obj\Debug\Lab 4.pdb
+F:\Projects\Lab 4\Lab 4\bin\Debug\Lab 4.exe.config
+F:\Projects\Lab 4\Lab 4\bin\Debug\Lab 4.exe
+F:\Projects\Lab 4\Lab 4\bin\Debug\Lab 4.pdb
+F:\Projects\Lab 4\Lab 4\obj\Debug\Lab 4.csprojResolveAssemblyReference.cache
+F:\Projects\Lab 4\Lab 4\obj\Debug\Lab_4.Form1.resources
+F:\Projects\Lab 4\Lab 4\obj\Debug\Lab_4.Properties.Resources.resources
+F:\Projects\Lab 4\Lab 4\obj\Debug\Lab 4.csproj.GenerateResource.Cache
+F:\Projects\Lab 4\Lab 4\obj\Debug\Lab 4.exe
+F:\Projects\Lab 4\Lab 4\obj\Debug\Lab 4.pdb
+F:\Projects\Triangulation\Lab 4\bin\Debug\Lab 4.exe.config
+F:\Projects\Triangulation\Lab 4\obj\Debug\Lab 4.exe
+F:\Projects\Triangulation\Lab 4\obj\Debug\Lab 4.pdb
+F:\Projects\Triangulation\Lab 4\bin\Debug\Triangulation.exe.config
